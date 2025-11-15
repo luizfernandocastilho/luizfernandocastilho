@@ -1,6 +1,6 @@
 ## Olá. Me chamo Luiz Fernando Castilho. 👋
 
-- 🌱 Estou aprendendo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+- 🌱 Estou aprendendo <img height=10px width=10px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
 
 <!--

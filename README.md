@@ -5,6 +5,7 @@
 Sou Engenheiro Civil formado pela Universidade de Brasília - UnB.
 
 ## Minhas skills:
+<img alt="Static Badge" src="https://img.shields.io/badge/Gest%C3%A3o%20de%20Projetos%20-%20Gest%C3%A3o%20de%20Projetos%20?style=for-the-badge&color=%2301399a"> <img alt="Static Badge" src="https://img.shields.io/badge/Gest%C3%A3o%20de%20Processos%20-%20Gest%C3%A3o%20de%20Projetos%20?style=for-the-badge&color=%2301399a">
 
 
 ## O que estou aprendendo:

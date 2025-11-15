@@ -10,7 +10,8 @@ Sou Engenheiro Civil formado pela Universidade de Brasília - UnB.
 ## Onde me encontrar:
 <!-- linkedin icon -->
 
-<img alt="Static Badge" src="https://img.shields.io/badge/youtube-You%20Tube?style=for-the-badge&logo=youtube&logoColor=white&color=%23ff0034&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCD_gJHq2WuzSv18-fKq8S_Q"> <img alt="Static Badge" src="https://img.shields.io/badge/twitter%20x-twitter?style=for-the-badge&logo=x&logoColor=white&color=black&link=https%3A%2F%2Fx.com%2Fluizfcastilho">
+<img alt="Static Badge" src="https://img.shields.io/badge/youtube-You%20Tube?style=for-the-badge&logo=youtube&logoColor=white&color=%23ff0034&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCD_gJHq2WuzSv18-fKq8S_Q"> <img alt="Static Badge" src="https://img.shields.io/badge/twitter%20x-twitter?style=for-the-badge&logo=x&logoColor=white&color=black&link=https%3A%2F%2Fx.com%2Fluizfcastilho"> <img alt="Static Badge" src="https://img.shields.io/badge/bluesky-bluesky?style=for-the-badge&logo=bluesky&logoColor=white&color=%230285ff&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fluizcastilho.bsky.social">
+
 
 
 <!-- python icon -->

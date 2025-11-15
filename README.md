@@ -5,7 +5,8 @@
 Sou Engenheiro Civil formado pela Universidade de Brasília - UnB. Especialista em Regulação da Agência Nacional de Transportes Terrestres - ANTT, desde 2005. Diretor de Governança e Gestão Estratégica da Secretaria de Relações Institucionais da Presidência da República desde 2024.
 
 ## Minhas skills:
-<img alt="Static Badge" src="https://img.shields.io/badge/Gest%C3%A3o%20de%20Projetos%20-%20Gest%C3%A3o%20de%20Projetos%20?style=for-the-badge&color=%2301399a"> <img alt="Static Badge" src="https://img.shields.io/badge/Gest%C3%A3o%20de%20Processos%20-%20Gest%C3%A3o%20de%20Projetos%20?style=for-the-badge&color=%2301399a"> <img alt="Static Badge" src="https://img.shields.io/badge/Gest%C3%A3o%20de%20Riscos%20-%20Gest%C3%A3o%20de%20Projetos%20?style=for-the-badge&color=%2301399a"> <img alt="Static Badge" src="https://img.shields.io/badge/ISO%2031000%20-%20Gest%C3%A3o%20de%20Projetos%20?style=for-the-badge&color=%2301399a">
+<img alt="Static Badge" src="https://img.shields.io/badge/Gest%C3%A3o%20de%20Projetos%20-%20Gest%C3%A3o%20de%20Projetos%20?style=for-the-badge&color=%2301399a"> <img alt="Static Badge" src="https://img.shields.io/badge/Gest%C3%A3o%20de%20Processos%20-%20Gest%C3%A3o%20de%20Projetos%20?style=for-the-badge&color=%2301399a"> <img alt="Static Badge" src="https://img.shields.io/badge/Gest%C3%A3o%20de%20Riscos%20-%20Gest%C3%A3o%20de%20Projetos%20?style=for-the-badge&color=%2301399a"> <img alt="Static Badge" src="https://img.shields.io/badge/ISO%2031000%20-%20Gest%C3%A3o%20de%20Projetos%20?style=for-the-badge&color=%2301399a"> <img alt="Static Badge" src="https://img.shields.io/badge/Business%20Process%20Management%20-%20Gest%C3%A3o%20de%20Projetos%20?style=for-the-badge&color=%2301399a">
+
 
 
 

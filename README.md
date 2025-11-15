@@ -8,7 +8,7 @@ Sou Engenheiro Civil formado pela Universidade de Brasília - UnB.
 
 
 ## O que estou aprendendo:
-https://img.shields.io/badge/python-python?style=for-the-badge&logo=python&logoColor=black&color=%23f5da55
+<img alt="Static Badge" src="https://img.shields.io/badge/sql-sql?style=for-the-badge&logo=databricks&logoColor=white&color=%23006dc1">
 
 
 ## Onde me encontrar:

@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá. Me chamo Luiz Fernando Castilho. 👋
+
+- 🌱 Estou aprendendo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 
 <!--
 **luizfernandocastilho/luizfernandocastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

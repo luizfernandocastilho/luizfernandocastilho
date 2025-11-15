@@ -19,6 +19,6 @@ Sou Engenheiro Civil formado pela Universidade de Brasília - UnB.
 
 ##
 <!-- github followers icon -->
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/luizfernandocastilho">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/luizfernandocastilho"> <img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/luizcastilho.bsky.social">
 <!-- bluesky followers icon -->
-<img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/luizcastilho.bsky.social">
+

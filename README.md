@@ -11,8 +11,8 @@ Sou Engenheiro Civil formado pela Universidade de Brasília - UnB.
 <!-- linkedin icon -->
 
 <!-- youtube icon -->
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCD_gJHq2WuzSv18-fKq8S_Q?style=for-the-badge&logo=youtube&color=%23ff0034">
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCD_gJHq2WuzSv18-fKq8S_Q?style=for-the-badge&logo=youtube&color=%23ff0034">
+<img alt="Static Badge" src="https://img.shields.io/badge/youtube-You%20Tube?style=for-the-badge&logo=youtube&logoColor=white&color=%23ff0034&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCD_gJHq2WuzSv18-fKq8S_Q">
+
 
 
 <!-- python icon -->

@@ -11,7 +11,6 @@ Sou Engenheiro Civil formado pela Universidade de Brasília - UnB.
 <!-- linkedin icon -->
 
 <!-- youtube icon -->
-<img alt="Static Badge" src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white">
 
 
 <!-- python icon -->
@@ -20,4 +19,4 @@ Sou Engenheiro Civil formado pela Universidade de Brasília - UnB.
 
 ##
 <!-- github followers icon -->
-https://img.shields.io/github/followers/luizfernandocastilho
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/luizfernandocastilho">

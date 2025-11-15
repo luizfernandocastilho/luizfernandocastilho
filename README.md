@@ -8,7 +8,7 @@ Sou Engenheiro Civil formado pela Universidade de Brasília - UnB.
 ## Onde me encotrar:
 
 <!-- youtube icon -->
-https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40luizfernandocastilho
+<img alt="Static Badge" src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white">
 
 
 <!-- python icon -->

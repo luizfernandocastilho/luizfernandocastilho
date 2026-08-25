@@ -7,7 +7,8 @@ Minha experiência abrange governança, gestão de projetos, processos, riscos, 
 <div style="display: inline_block"><br> 
 <img align="center" alt="Luiz-Html" height="30" width="40" src="https://skillicons.dev/icons?i=html&theme=light"> 
 <img align="center" alt="Luiz-Css" height="30" width="40" src="https://skillicons.dev/icons?i=css&theme=light"> 
-<img align="center" alt="Luiz-Python" height="30" width="40" src="https://skillicons.dev/icons?i=python&theme=light"> </div>
+<img align="center" alt="Luiz-Python" height="30" width="40" src="https://skillicons.dev/icons?i=python&theme=light"> 
+</div>
 
 ## 
 
@@ -15,4 +16,4 @@ Minha experiência abrange governança, gestão de projetos, processos, riscos, 
 <a href="https://www.youtube.com/@luizfernandocastilho" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="mailto:luizfernandocastilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div> <!-- OPCIONAL — cards de estatísticas (descomente se quiser): <div> <a href="https://github.com/SEU_USUARIO"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/> </a> </div>
+</div>

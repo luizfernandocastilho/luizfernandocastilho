@@ -14,6 +14,6 @@ Minha experiência abrange governança, gestão de projetos, processos, riscos, 
 
 <div> 
 <a href="https://www.youtube.com/@luizfernandocastilho" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/luizfernandocastilho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="mailto:luizfernandocastilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>

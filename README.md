@@ -6,6 +6,7 @@ Minha experiência abrange governança, gestão de projetos, processos, riscos, 
 
 <div style="display: inline_block"><br> 
 <img align="center" alt="Luiz-Apple" height="30" width="40" src="https://skillicons.dev/icons?i=apple&theme=light">
+<img align="center" alt="Luiz-VSCode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode&theme=light">   
 <img align="center" alt="Luiz-NPM" height="30" width="40" src="https://skillicons.dev/icons?i=npm&theme=light">   
 <img align="center" alt="Luiz-MarkDown" height="30" width="40" src="https://skillicons.dev/icons?i=md&theme=light">   
 <img align="center" alt="Luiz-Git" height="30" width="40" src="https://skillicons.dev/icons?i=git&theme=light">   

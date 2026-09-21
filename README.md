@@ -5,7 +5,8 @@ Atuo na interseção entre estratégia, governança e execução, ajudando organ
 Minha experiência abrange governança, gestão de projetos, processos, riscos, crises, continuidade de negócios e gestão de mudanças, além da extração e análise de dados e da aplicação prática de inteligência artificial para tornar organizações mais eficientes, resilientes e preparadas para o futuro. Trabalho para transformar grandes volumes de informação em indicadores, diagnósticos e insights acionáveis, conectando o dado à estratégia e à tomada de decisão. Esse trabalho envolve não apenas método e disciplina de execução, mas também a capacidade de articular pessoas, alinhar interesses e construir consensos entre diferentes atores.
 
 <div style="display: inline_block"><br> 
-<img align="center" alt="Luiz-Apple" height="30" width="40" src="https://skillicons.dev/icons?i=apple&theme=light">   
+<img align="center" alt="Luiz-Apple" height="30" width="40" src="https://skillicons.dev/icons?i=apple&theme=light">
+<img align="center" alt="Luiz-MarkDown" height="30" width="40" src="https://skillicons.dev/icons?i=md&theme=light">   
 <img align="center" alt="Luiz-Git" height="30" width="40" src="https://skillicons.dev/icons?i=git&theme=light">   
 <img align="center" alt="Luiz-PGitHub" height="30" width="40" src="https://skillicons.dev/icons?i=github&theme=light">   
 <img align="center" alt="Luiz-Python" height="30" width="40" src="https://skillicons.dev/icons?i=python&theme=light">   

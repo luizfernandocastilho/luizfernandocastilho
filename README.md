@@ -15,6 +15,7 @@ Minha experiência abrange governança, gestão de projetos, processos, riscos, 
 <img align="center" alt="Luiz-Astro" height="30" width="40" src="https://skillicons.dev/icons?i=astro&theme=light">   
 <img align="center" alt="Luiz-Html" height="30" width="40" src="https://skillicons.dev/icons?i=html&theme=light"> 
 <img align="center" alt="Luiz-Css" height="30" width="40" src="https://skillicons.dev/icons?i=css&theme=light"> 
+<img align="center" alt="Luiz-Postgres" height="30" width="40" src="https://skillicons.dev/icons?i=postgre&theme=light">   
 <img align="center" alt="Luiz-LaTeX" height="30" width="40" src="https://skillicons.dev/icons?i=latex&theme=light">   
 <img align="center" alt="Luiz-Docker" height="30" width="40" src="https://skillicons.dev/icons?i=docker&theme=light">   
 <img align="center" alt="Luiz-Obsidian" height="30" width="40" src="https://skillicons.dev/icons?i=obsidian&theme=light">   
